@@ -21,7 +21,7 @@ if ($num > 0) {
 
     $product_item = array(
         'id' => $id,
-        'name' => $id,
+        'name' => $name,
         'description' => $description,
         'price' => $price,
         "category_id" => $category_id,
